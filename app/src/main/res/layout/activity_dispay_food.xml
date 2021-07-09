@@ -45,7 +45,7 @@
         android:id="@+id/list"
         android:layout_below="@+id/linearLayout"
         android:dividerHeight="2dp"
-        android:divider="@color/white"
+        android:divider="@color/black"
         >
 
     </ListView>
